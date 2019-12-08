@@ -1,0 +1,24 @@
+#+begin_export html
+<input type="checkbox" id="sidemenu" checked>
+<label for="sidemenu">&nbsp;</label>
+#+end_export
+
+#+begin_sidemenu
+#+ATTR_HTML: :class shield
+[[https://img.shields.io/badge/org--html--dracula-v1.0.0--0-blue.svg]]
+
+#+ATTR_HTML: :class metadata
+| author  | [[mailto://{{{email}}}][{{{author}}}]]         |
+| updated | {{{time(%Y-%m-%d)}}} |
+
+
+#+TOC: headlines 5
+
+#+ATTR_HTML: :class navigation-root :title up
+[[../][../]]
+
+1. [[../org-html-dracula][Org HTML Dracula]]
+
+\\
+#+end_sidemenu
+
